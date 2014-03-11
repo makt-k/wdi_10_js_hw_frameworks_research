@@ -1,15 +1,13 @@
 How is your chosen framework similar to Angular?
-
 Out of the dozen or so Javascript frameworks out in the wild, one of the more
 popular showdowns is between Ember and Angular. Their fight is so relentless
 because they are similar in two major ways:
-
 1) both are MVC (model-view- controller) frameworks that support routing,
-bindings, partial views, filters, and observable changes;    2) both are
-opinionated, though Ember more so than Angular as it has stronger conventions.
+bindings, partial views, filters, and observable changes;
+2) both are opinionated, though Ember more so than Angular as it has stronger
+conventions.
 
 How is it different? (What kind of templates does it use?)
-
 While Ember can doalmost all that Angular can do, it does come with more built-
 in support for standard coding, meaning it is capable of more "magic" (much like
 "Rails magic") but has more dependencies. In contrast, Angular is much more
@@ -35,12 +33,10 @@ choice is dependent on what the current project entails as well as the
 preferences of the development team.
 
 Are there any options to easily integrate it with Rails?
-
 Ember can be easily integrated with Rails with the ember-rails gem
 (https://github.com/emberjs /ember-rails).
 
 Are there any notable apps built with it?
-
 While Ember is relatively new and perhaps require a little more maturing,
 several websites have already embraced it to develop their mobile apps:
 1) Discourse (http://www.discourse.org)
