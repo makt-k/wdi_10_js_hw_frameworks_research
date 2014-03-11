@@ -21,17 +21,17 @@ Handlebars and/or even Moustache. Although Angular plays well with templates, it
 does rely heavily on "directives" to extend the HTML vocabulary in rendering
 views. Another built- in feature is Ember Data, a library that maps client-side
 models as data on the server-side, loading and saving records through RESTful
-JSON API. Thus far, it has no counterpart in Angular. In addition, one of the
-major differences between the two frameworks is that Ember subscribes to Uniform
-access principle and Angular doesn't. This principle, which states that the
-syntax should be the same when working with either assigned attributes, methods,
-or precomputed primitives, means that, for example, it's easier to change your
-mind and replace a primitive with a method in Ember.* There are plenty more
-reasons as to why some developers choose Ember over Angular (i.e. Ember deviates
-less from classic Javascript syntaxes and patterns**, Ember is more compatible
-with jQuery, it's more difficult to reuse object instances in Angular*, etc.),
-but in the end, the choice is dependent on what the current project entails as
-well as the preferences of the development team.
+JSON API. In addition, one of the major differences between the two frameworks
+is that Ember subscribes to Uniform access principle and Angular doesn't. This
+principle, which states that the syntax should be the same when working with
+either assigned attributes, methods, or precomputed primitives, means that, for
+example, it's easier to change your mind and replace a primitive with a method
+in Ember.* There are plenty more reasons as to why some developers choose Ember
+over Angular (i.e. Ember deviates less from classic Javascript syntaxes and
+patterns**, Ember is more compatible with jQuery, it's more difficult to reuse
+object instances in Angular*, etc.), but in the end, the choice is dependent on
+what the current project entails as well as the preferences of the development
+team.
 
 Are there any options to easily integrate it with Rails?
 Ember can be easily integrated with Rails with the ember-rails gem
